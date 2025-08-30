@@ -1,3 +1,4 @@
+// this is to find elements in array appearing more than n/2 times
 class Solution {
     public int majorityElement(int[] nums) {
         int element=nums[0],count=1;
